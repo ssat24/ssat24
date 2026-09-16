@@ -1,8 +1,8 @@
 # Shashi Satyam
-
 Sr. Data Scientist / AI Engineer.
 
 Sr. Data Scientist at MAN Truck & Bus India. 
+
 Targeting platform, production AWS, and AI engineer roles.
 
 ## Stack
