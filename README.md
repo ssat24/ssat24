@@ -2,7 +2,8 @@
 
 Sr. Data Scientist / AI Engineer.
 
-Sr. Data Scientist at MAN Truck & Bus India (Jun 2022–present). Targeting platform, production AWS, and AI engineer roles.
+Sr. Data Scientist at MAN Truck & Bus India. 
+Targeting platform, production AWS, and AI engineer roles.
 
 ## Stack
 
