@@ -1,16 +1,10 @@
 # Shashi Satyam
-Sr. Data Scientist / AI Engineer.
-
-Sr. Data Scientist at MAN Truck & Bus India. 
-
-Targeting platform, production AWS, and AI engineer roles.
+Data Scientist / AI Engineer.
 
 ## Stack
-
 Python, FastAPI, AWS (ECS, Bedrock, CDK), Qdrant, LangGraph / LangChain, MCP, eval / observability.
 
 ## Cert
-
 AWS Certified Solutions Architect – Associate (Nov 2024–Nov 2027).
 
 ## Links
