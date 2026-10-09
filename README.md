@@ -1,5 +1,5 @@
 # Shashi Satyam
-Data Scientist / AI Engineer.
+AI Engineer.
 
 ## Stack
 Python, FastAPI, AWS (ECS, Bedrock, CDK), Qdrant, LangGraph / LangChain, MCP, eval / observability.
